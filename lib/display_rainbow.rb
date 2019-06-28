@@ -5,4 +5,4 @@ def display_rainbow(colors)
   puts "R: #{1}, O: #{2}, Y: #{3}, R: #{4}, G: #{5}, B: #{6}, I #{7}, V: #{8}"
 end
 
-display_rainbow
+display_rainbow()
